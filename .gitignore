@@ -29,3 +29,5 @@ Ankh.NoLoad
 
 *.cph
 *.exe
+*.bin
+.vscode/
